@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: black url(img/cristo\ 2.jpg);
+    background-size: 100%;
+    background-repeat:calc(100% auto);
+}
+.titulor{
+    text-align: center;
+}
+
+#area-principal {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: solid red ;
+}
+#area-segunda {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: orangered;
+    border: solid black;
+    display: inline-flexbox;
+}
